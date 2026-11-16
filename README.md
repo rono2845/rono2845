@@ -1,5 +1,4 @@
-::: {align="center"}
-# Hi, I'm Ronojit Chowdhury 👋
+                                                    # Hi, I'm Ronojit Chowdhury 👋
 
 ### ☁️ AWS Cloud \| ⚙️ DevOps \| 🏗️ Infrastructure as Code \| 🤖 Automation
 
