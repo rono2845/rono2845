@@ -6,8 +6,8 @@
 **Building reliable cloud infrastructure and automating the way teams
 deliver software.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rono2845)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronojit-chowdhury/)
 :::
 
 ------------------------------------------------------------------------
@@ -54,11 +54,3 @@ Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
-
-## 🤝 Let's Connect
-
--   💼 [LinkedIn](https://www.linkedin.com/in/ronojit-chowdhury/)
-
-:::
-### 💡 Learn • Build • Automate • Repeat 🚀
-:::
