@@ -55,35 +55,10 @@ Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-## 🏅 Certifications
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator" />`{=html}
-`<img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate 003" />`{=html}
-```{=html}
-</p>
-```
--   Red Hat Certified System Administrator (RHCSA)
--   HashiCorp Certified: Terraform Associate (003)
-
-------------------------------------------------------------------------
-
-## 📚 Currently Learning
-
--   Advanced AWS Architecture and Networking
--   Docker and Kubernetes
--   Python for DevOps Automation
--   CI/CD Architecture and Deployment Strategies
-
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
 ## 🤝 Let's Connect
 
 -   💼 [LinkedIn](https://www.linkedin.com/in/ronojit-chowdhury/)
 
-::: {align="center"}
+:::
 ### 💡 Learn • Build • Automate • Repeat 🚀
 :::
